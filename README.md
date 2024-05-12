@@ -1,5 +1,5 @@
-# Project Title
-### Crypto-arbitrage-analysis
+
+# Crypto-arbitrage-analysis
 This is data analysis about `Bitcoin arbitrage` on 2018, the analysis use the original price from Coinbase and Bitstamp during January to March 2018. Since Coinbase and Bitstamp have price difference during that period of time, the purpose of this project is using Pandas to do the batch calculation and check how much accumulated profit can be made.
 
 ---
